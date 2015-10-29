@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sevilservices.ch/css/styles.css&apos; to &apos;sevilmobile.css&apos;" description="Rename resource &apos;styles.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="css/styles.css" name="sevilmobile.css" stamp="1434475426674" updateReferences="true"/>
+</session>
